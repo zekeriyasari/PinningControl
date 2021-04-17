@@ -1,0 +1,11 @@
+name = "PinningControl"
+uuid = "810bcee0-ac10-431b-aaa5-461e21b4cd24"
+authors = ["zekeriya.sari <zekeriya.sari@deu.edu.tr>"]
+version = "0.1.0"
+
+[deps]
+BlockArrays = "8e7c35d0-a365-5155-bbbb-fb81a777f24e"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SimpleWeightedGraphs = "47aef6b3-ad0c-573a-a1e2-d07658019622"
